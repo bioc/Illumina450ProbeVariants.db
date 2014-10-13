@@ -2,7 +2,7 @@ Package: Illumina450ProbeVariants.db
 Type: Package
 Title: Annotation Package combining variant data from 1000 Genomes
         Project for Illumina HumanMethylation450 Bead Chip probes
-Version: 1.1.0
+Version: 1.1.1
 Date: 2013-10-07
 Author: Lee Butcher
 Maintainer: Tiffany Morris <tiffany.morris@ucl.ac.uk>
