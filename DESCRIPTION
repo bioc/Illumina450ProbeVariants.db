@@ -6,7 +6,7 @@ Version: 1.7.0
 Date: 2013-10-07
 Author: Lee Butcher
 Maintainer: Tiffany Morris <tiffany.morris@ucl.ac.uk>
-Description: Includes details on variants for each probe on the 450k bead chip for each of the four populations (Asian, American, African and European)License: GPL-3
+Description: Includes details on variants for each probe on the 450k bead chip for each of the four populations (Asian, American, African and European)
 License: GPL-3
 Depends: R (>= 3.0.1)
 biocViews: Homo_sapiens_Data, CancerData, ChipOnChipData, SNPData
